@@ -1,0 +1,40 @@
+.sidebar {
+    position: fixed;
+    top: 70px;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    background-color: #fff;
+    padding: 16px;
+    color: gray;
+  }
+  
+  .sidebar-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    cursor: pointer;
+    color: gray;
+    text-decoration: none; 
+   
+  }
+  
+  .sidebar-item i {
+    margin-right: 8px;
+    color: gray;
+  }
+  
+  .sidebar-item.active {
+    color: blue; 
+  }
+  
+  .sidebar-item.active i {
+    color: blue; 
+  }
+  
+  .sidebar-item span {
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+  }
+  
