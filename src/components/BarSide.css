@@ -1,0 +1,10 @@
+.BarSide {
+    position: fixed;
+    top: 180px;
+    right: 0;
+    width: 60px;
+    height: 100%;
+    background-color: #fff;
+    border-left: 1px solid #ccc;
+  }
+  

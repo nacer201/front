@@ -18,6 +18,9 @@
     text-decoration: none; 
    
   }
+  .left-content{
+    margin-left: 1070px;
+  }
   
   .sidebar-item i {
     margin-right: 8px;
